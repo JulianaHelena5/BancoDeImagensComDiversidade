@@ -11,5 +11,12 @@ Sintam-se a vontade para acrescentar outras iniciativas a lista.
 
 #VamosJuntas
 
-# Bancos de Imagens
+# Bancos de Imagens Brasileiros
 
+## 1 - Tem que Ter 
+
+`Descrição resumida:` O primeiro banco de imagens brasileiro focado na representatividade LGBTI+. O projeto busca transformar a maneira como a população LGBTI+ é representada na publicidade brasileira, reforçando a visibilidade da existência de corpos e sujeitos diversos, através da quebra de estereótipos.
+
+`Link:` http://www.temqueter.org/
+
+# Bancos de Imagens Internacionais
