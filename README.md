@@ -45,3 +45,9 @@ Sintam-se a vontade para acrescentar outras iniciativas a lista.
 `Descrição resumida:` Iwaria significa "Descubra a África" em iorubá. Esse banco de imagens tem como objetivo fazer com que as pessoas descubram a África Real através de belas fotos de alta qualidade e gratuitas.
 
 `Link:` https://iwaria.com/ 
+
+## 5 - JopWell
+
+`Descrição resumida:` Plataforma com imagens de profissionais negros, latino-americanos e nativos americanos em ambientes corporativos.
+
+`Link:` https://jopwellcollection.jopwell.com/
