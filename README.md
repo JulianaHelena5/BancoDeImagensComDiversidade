@@ -33,10 +33,15 @@ Sintam-se a vontade para acrescentar outras iniciativas a lista.
 
 `Link:` https://createherstock.com/
 
-## 3 - WOCinTech Chat
+## 3 - #WOCinTech Chat
 
 `Descrição resumida:` Banco com uma grande variedade de Mulheres diversas em ambientes de Tecnologia. Como o próprio site diz: `Assim como as mulheres brancas têm sido a “mulher” padrão na tecnologia e na sociedade americana como um todo, acreditamos que a crença subjacente no que significa ser - e quem pode ser - um trabalhador de tecnologia no século 21 pode se beneficiar dessa forma de "Interrupção".`
 
 `Link:` Blog:  https://www.wocintechchat.com/blog/wocintechphotos
         Álbum: https://www.flickr.com/photos/wocintechchat/ 
 
+## 4 - Iwaria 
+
+`Descrição resumida:` Iwaria significa "Descubra a África" em iorubá. Esse banco de imagens tem como objetivo fazer com que as pessoas descubram a África Real através de belas fotos de alta qualidade e gratuitas.
+
+`Link:` https://iwaria.com/ 
