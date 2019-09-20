@@ -51,3 +51,48 @@ Sintam-se a vontade para acrescentar outras iniciativas a lista.
 `Descrição resumida:` Plataforma com imagens de profissionais negros, latino-americanos e nativos americanos em ambientes corporativos.
 
 `Link:` https://jopwellcollection.jopwell.com/
+
+## 6 - Mocha Stock 
+
+`Descrição resumida:` O Mocha Stock foi criado para ajudar Marcas a contarem histórias autênticas, fornecendo imagens prontas para editorial e conteúdo de vídeo de alta qualidade, focado na diversidade e inclusão.
+
+`Link:` https://www.mochastock.com/ 
+
+## 7 - Nappy
+
+`Descrição resumida:` Lançado para fornecer fotos bonitas e de alta resolução de pessoas negras e pardas para startups, marcas, agências e todos os outros. O Nappy facilita para as empresas serem objetivas quanto à representação em seus designs, apresentações e anúncios. Representações realistas de pessoas reais fazendo coisas reais
+
+`Link:` https://www.nappy.co/
+
+## 8 - Picnoi 
+
+`Descrição resumida:` Cooperativa de fotografia de imagem, que reconhece que a maioria dos sites de imagens GRATUITAS tem poucas ou nenhuma imagem de pessoas negras e pardas. Procuram criar um espaço no qual editores, blogueiros, proprietários de sites, profissionais de marketing, designers, artistas gráficos, anunciantes e afins possam facilmente pesquisar e encontrar diversas imagens multirraciais.
+
+A maioria das pessoas no mundo é negra ou parda; portanto, não há razão para que as imagens em bancos de imagens não as incluam.
+
+`Link:` https://picnoi.com/
+
+## 9 - Representation Matters
+
+`Descrição resumida:` Os sites tradicionais de fotografia oferecem imagens que quase sempre apresentam pessoas jovens, magras, brancas e capazes. Isso realmente reflete a variedade estonteante de pessoas que vemos ao nosso redor todos os dias - ou seus clientes?
+
+Primeiro e melhor site do mundo para imagens comerciais em alta resolução, isentas de royalties e diversas para uso comercial. Você encontrará imagens focadas na inclusão e diversidade em todas as esferas da vida, perfeitas para blogueiros e designers gráficos e com preços para pequenos empresários.
+
+Inclusivas, diversas e `body positive` fotos e imagens
+
+`Link:` https://representationmatters.me/
+
+## 10 - TONL 
+
+`Descrição resumida:` A TONL busca transformar a idéia de fotografia, exibindo imagens de diversas pessoas e suas histórias em todo o mundo.
+
+Nossas vozes e visibilidade são importantes. A fotografia e a narrativa podem ajudar a humanizar e, esperamos, diminuir os estereótipos e preconceitos contra pessoas negras e pardas, principalmente. Queríamos desafiar a aparência obsoleta e homogênea da fotografia tradicional, apresentando as diversas origens étnicas das pessoas comuns.
+
+`Link:` https://tonl.co/
+
+## 11 - UKBlackTech 
+
+`Descrição resumida:` 
+Queremos ser o agente de mudança para nossa geração futura e garantir que produtos, serviços e empresas de tecnologia reflitam todos nós. Banco de imagens com pessoas negras em Tecnologia.
+
+`Link:` https://ukblacktech.com/stockphotos/
